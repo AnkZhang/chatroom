@@ -1,6 +1,5 @@
-# chatroom-vue
-一个简单的多人聊天室。基于vue和node+Socket.IO。更多功能正在开放中……
-
+﻿# chatroom-vue
+一个简单的多人聊天室。基于vue和node+Socket.IO。
 ## 如何运行
 下载项目
 ```
@@ -27,9 +26,4 @@
  npm run pm2
 ```
 
-## 效果图
- <p align="center">
-  <img width="900" src="https://raw.githubusercontent.com/lss5270/chatroom-vue/master/gifs/view1.jpg">
-  <img  src="https://raw.githubusercontent.com/lss5270/chatroom-vue/master/gifs/view2.jpg">
-</p>
 
